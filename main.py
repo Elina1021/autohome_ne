@@ -2,11 +2,10 @@
 # @Author: solidjoker
 # @Date:   2019-08-13 17:25:44
 # @Last Modified by:   solidjoker
-# @Last Modified time: 2019-08-13 17:28:24
+# @Last Modified time: 2019-08-13 17:44:53
 
 from tools import main
 
-if __name__ == '__main__':
-    
-    df = main.main()
 
+if __name__ == '__main__':
+    df = main.main()
