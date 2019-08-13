@@ -1,0 +1,1839 @@
+model_id	插电式混动	柴油	汽油	油电混合	纯电动
+3170			True		
+692			True		
+18			True		
+4871			True		
+2951			True		
+4851			True		
+19			True		
+509			True		
+812			True		
+2731			True		
+2733			True		
+2735			True		
+2737			True		
+2994			True		
+511			True		
+2741			True		
+370			True		
+2730			True		
+471			True		
+538			True		
+2732			True		
+2734			True		
+472			True		
+2736			True		
+2738			True		
+412			True		
+148			True		
+2740			True		
+3825			True		
+4196			True		
+179			True		
+401			True		
+385			True		
+386			True		
+3891			True		
+582			True		
+884			True		
+2846			True		
+4212			True		
+2097			True		
+2745		True	True		
+4764			True		
+588			True		
+197			True		
+3248			True		
+3862			True		
+2562			True		
+3823			True		
+2084			True		
+2034			True		
+52			True		
+398			True		
+2966			True		
+56			True		
+450			True		
+365			True		
+59			True		
+3339			True		
+3683			True		
+60			True		
+3688		True	True		
+3278			True		
+237			True		
+595			True		
+57		True	True		
+467		True	True		
+469			True		
+300			True		
+235			True		
+683			True		
+267			True		
+2842			True		
+2967			True		
+2717			True		
+2718			True		
+2197			True		
+3264			True		
+4074			True		
+3704			True		
+2723			True		
+3901			True		
+3451			True		
+2719			True		
+2722			True		
+2833			True		
+914			True		
+3665			True		
+3104			True		
+135			True		
+3859			True		
+4179			True		
+5031			True		
+4809			True	True	
+3582			True		
+314			True	True	
+4304			True		
+2565			True		
+859			True	True	
+81			True		
+3876			True		
+3085			True		
+78			True	True	
+3460			True		
+4102			True		
+880			True	True	
+694			True		
+449			True		
+2168			True		
+233			True		
+4171			True		
+3941			True		
+66			True		
+65			True		
+2561			True		
+4658			True		
+3464			True		
+373			True		
+2963			True		
+2968			True		
+202			True		
+4472			True		
+153			True		
+3386			True		
+3053			True		
+159			True		
+587			True		
+3362			True		
+3726			True		
+3230			True		
+161			True		
+270			True		
+2847			True		
+2196			True		
+3189			True		
+2726			True		
+2727			True		
+2728			True		
+2729			True		
+3357			True		
+2725			True		
+875			True		
+3751			True		
+982			True		
+4552			True		
+164			True		
+834			True	True	
+2896			True		
+5200			True		
+3554			True		
+4487			True		
+166			True		
+525			True		
+344			True		
+407			True		
+4900			True		
+2806			True		
+3781			True		
+5178			True		
+4802			True		
+4279			True		
+3780			True		
+579			True		
+417			True		
+940			True		
+927			True		
+997			True		
+3283			True		
+2085			True		
+540			True		
+2091			True		
+2944			True		
+2088			True		
+3059			True		
+798			True		
+489			True		
+703			True		
+2838			True		
+172			True		
+4175			True		
+162			True		
+168			True		
+415			True		
+4077			True		
+4392			True		
+4166			True		
+4587			True		
+4908			True		
+4606			True		
+3412			True		
+3677			True		
+155			True		
+3774			True		
+3343			True		
+2236			True		
+3068			True		
+877			True		
+987			True		
+2299			True		
+3234			True		
+2619			True		
+4167			True		
+4271			True		
+437			True		
+688			True		
+99			True		
+3632			True		
+184			True		
+640			True		
+277			True		
+185			True		
+186			True		
+2472			True		
+2791			True		
+2787			True		
+4987			True		
+3839			True		
+3928			True		
+5261			True		
+3417			True		
+4923			True		
+3795			True		
+2252			True		
+3557			True		
+3794			True		
+3427			True		
+3673			True		
+901			True		
+3014			True		
+2685			True		
+305			True		
+306			True		
+3800			True		
+623		True	True		
+2852			True		
+3695			True		
+466			True		
+2310			True		
+5317			True		
+4069			True		
+4800			True		
+3000			True		
+632			True		
+965			True		
+3035		True	True		
+2126			True		
+622		True	True		
+966			True		
+2960		True	True		
+2915		True	True		
+4586		True	True		
+852			True		
+3284			True		
+3361			True		
+4276			True		
+3426			True		
+4502			True		
+3874			True		
+4310			True		
+3661			True		
+4137			True		
+3714			True		
+4261			True		
+2683			True		
+2446			True		
+4046			True		
+4520			True		
+3913			True		
+4689			True		
+4506			True		
+3922			True		
+3980			True		
+4599			True		
+4208			True		
+3640			True		
+4141			True		
+4142			True		
+76			True		
+2478			True		
+3058			True		
+4009			True		
+4154			True		
+4553			True		
+2482			True		True
+3191			True		
+3916			True		
+3231			True		
+2943			True		
+4061			True		
+3428			True		
+3712			True		
+4511			True		
+4164			True		
+4298			True		
+4173			True		
+3217			True		
+705			True		
+2429			True		
+4588			True		
+4913			True		
+2785			True		
+3811			True		
+3924			True		
+2778			True		
+4976			True		
+4269			True		
+3204			True		
+4885			True		
+3121			True		
+4242			True		
+2567			True		
+484			True		
+2046			True		
+2045			True		
+2119			True		
+2788			True		
+1008			True		
+3422			True		
+590			True		
+520			True	True	
+2462		True	True		
+3101		True	True		
+4889		True	True		
+2459		True	True		
+491			True		
+2122			True		
+2001			True		
+493			True		
+624			True		
+492			True		
+2090			True		
+2120			True		
+535			True		
+2304			True		
+6			True		
+552		True	True		
+2200			True		
+536			True		
+2653		True	True		
+5281			True		
+5367			True		
+4517			True		
+3893			True		
+4660			True		
+3783			True		
+4376			True		
+4886			True		
+4978			True		
+3685			True		
+2566			True		True
+3155			True		
+2954			True		
+2504			True		
+2600			True		
+2605			True		
+3526			True		
+3514			True		
+2604			True		
+2505			True		
+4132			True		
+4292			True		
+5218			True		
+5074			True		
+2923		True	True		
+4372			True		
+3227			True		
+4011			True		
+4012			True		
+2606			True		
+3091			True		
+4013			True		
+4181			True		
+3311			True		
+4319			True		
+4182			True		
+5143			True		
+3504			True		
+3505			True		
+3508			True		
+145			True		
+2922			True		
+614			True		
+3457			True		
+528			True		
+4045			True		
+4993			True		
+874			True		
+4745			True		
+4274			True		
+4232			True		
+5239			True		
+333			True		
+144			True		
+3103			True		
+3197			True		
+826			True		
+149			True		
+207			True		
+16			True		
+633			True		
+871			True		
+442			True		
+4204			True		
+3964			True		
+496			True		
+905			True		
+4674			True		
+4744			True		
+15		True	True		
+360		True	True		
+210			True		
+372			True		
+3999			True		
+557			True		
+82			True		
+86			True		
+631			True		
+3416			True		
+539			True		
+224		True	True		
+669			True		
+4486		True	True		
+2901			True		
+951			True		
+3279			True		
+4888		True	True		
+2512		True	True		
+2510		True	True		
+561		True	True		
+562			True		
+3301			True		
+3970			True		
+4767			True		
+3128			True		
+4921			True		
+2990			True		
+3792			True		
+4808			True		
+4805			True		
+3789			True		
+2540			True		
+554			True		
+2742			True		
+3414			True		
+4423			True		
+3785			True		
+4468			True		
+4023			True		
+5384			True		
+4759			True		
+3925			True		
+3829			True		
+3828		True	True		
+3086		True	True		
+5103			True		
+2556			True		
+3461			True		
+3463			True		
+3786			True		
+4383			True		
+4097			True		
+3341			True		
+1006			True		
+790			True		
+3493			True		
+574			True		
+602		True	True		
+575			True		
+606			True		
+2769			True		
+4901			True		
+4086			True		
+3634			True		
+2776			True		
+126			True		
+2477			True		
+2530			True		
+3963			True		
+3309			True		
+2952			True		
+3324			True		
+4610			True		
+5069			True		
+4943			True		
+4938			True		
+3637			True		
+3984			True		
+3502			True		
+2865			True		
+4299			True		
+3697			True		
+3698			True		
+3699			True		
+5034			True		
+5067			True		
+2452			True		
+2497			True		
+3036			True		
+2500			True		
+2501			True		
+2499			True		
+2490			True		
+2495			True		
+2744			True		
+2498			True		
+2491			True		
+2494			True		
+545			True		
+4259			True		
+3126			True		
+3462			True	True	
+110			True	True	
+4645			True		
+771			True		
+505			True		
+2237			True		
+111			True		
+4260			True		
+526			True	True	
+4962			True	True	
+882			True		
+4646			True		
+770			True		
+46			True		
+2527		True	True		
+109			True		
+375			True		
+170			True		
+45			True		
+2107			True	True	
+2574			True		
+107			True		
+2607			True		
+2354			True		
+762			True		
+2244			True		
+5383			True		
+364			True		
+3347			True		
+3693			True		
+117			True		
+2871			True		
+2863			True		
+3615			True		
+659			True		
+577			True		
+3175			True		
+498			True		
+4899			True		
+3518		True	True		
+3814			True		
+4192		True	True		
+2524		True	True		
+2523		True	True		
+704			True		
+2024			True		
+102			True		
+2353			True		
+4314			True		
+5141			True		
+4027			True		
+4524			True		
+3720			True		
+2682			True		
+889			True		
+459			True		
+2261			True		
+361			True		
+308			True		
+367			True		
+359			True		
+4760			True		
+3307		True	True		
+4227			True		
+4228			True		
+3676			True		
+3821			True		
+3991			True		
+3990			True		
+4893			True		
+4165			True		
+5362			True		
+3440		True	True		
+4035		True	True		True
+2535		True	True		
+2542		True	True		
+3089		True	True		
+3735		True	True		True
+2579		True	True		
+2577		True	True		
+661			True		
+3633		True	True		
+2895		True	True		
+3754		True	True		
+2455		True	True		
+2453		True	True		
+2475		True	True		
+2767			True		
+3267			True		
+465			True		
+89			True		
+90			True		
+91			True		
+3992			True		
+3877			True		
+3346			True		
+4630			True		
+3349			True		
+3782			True		
+3495			True		
+3691			True		
+2560			True		
+4230			True		
+4094			True		
+4662			True		
+4174			True		
+3069			True		
+3524			True		
+2141			True		
+3574			True		
+2974			True		
+3662			True		
+947			True		
+980			True		
+2355			True		
+2488			True		
+2885			True		
+3159			True		
+3139			True		
+3140			True		
+2599		True	True		
+2571		True	True		
+2568		True	True		
+3480		True	True		
+3272			True		
+2114			True		
+969			True		
+865			True		
+1015			True		
+968			True		
+2306		True	True		
+2774		True	True		
+3477			True		
+967			True		
+864		True	True		
+3134			True		
+2093			True		
+2095			True		
+2615			True		
+4168			True		
+4792			True		
+4898			True		
+4984			True		
+4608			True		
+2027		True	True		
+2123			True		
+3481			True		
+4485			True		
+3074			True		
+3298		True	True		
+3454			True		
+2124		True	True		
+395		True	True		
+3108			True		
+4410			True		
+2771			True		
+5048			True		
+4150			True		
+556			True		
+428			True		
+2941			True		
+3006			True		
+4169			True		
+4770			True		
+3214			True		
+2318			True		
+855			True		
+3160			True		
+2481			True		
+470			True		
+4774			True		
+3075			True		
+4525			True		
+2766			True		
+3994			True		
+824			True		
+47			True		
+527			True		
+696			True		
+823			True		
+4205			True		
+844			True		
+2517		True	True		
+2515		True	True		
+3455		True	True		
+3846		True	True		
+4436		True	True		
+5334		True	True		
+2516		True	True		
+2160			True		
+2212		True	True		
+673		True	True		
+2211		True	True		
+4226			True		
+4130			True		
+4825			True		
+4518			True		
+4483			True		
+3896			True		
+2133			True		
+2108		True	True		
+477		True	True		
+290		True	True		
+3607			True		
+2572		True	True		
+3636		True	True		
+3149		True	True		
+2673		True	True		
+3911		True	True		
+2754		True	True		
+2755		True	True		
+2973		True	True		
+67			True		
+68			True		
+392			True		
+481			True		
+2487			True		
+2485			True		
+2536			True		
+2486			True		
+3038			True		
+379			True		
+38			True		
+3844			True		
+570			True		
+461			True		
+194			True		
+460			True		
+862			True		
+447			True		
+4702			True		
+3556			True		
+4139			True		
+474			True		
+4701			True		
+4293			True		
+4481			True		
+3788			True		
+3465			True		
+4982			True		
+4491			True		
+4133			True		
+4396			True		
+3589			True		
+2192			True		
+608			True		
+133			True		
+2840			True		
+2111			True		
+2156			True		
+609			True		
+132			True		
+421			True		
+409			True		
+2051			True		
+2155			True		
+799			True		
+801			True		
+989			True		
+2964			True		
+3467			True		
+841		True	True		
+138			True		
+611			True		
+291			True		
+23			True		
+4072			True		
+3845			True		
+4673			True		
+4891			True		
+3872			True		
+121			True		
+521		True	True		
+777			True		
+503			True		
+3363			True		
+3545			True		
+3080			True		
+4934			True		
+2752			True		
+4234			True		
+3351			True		
+4090		True	True		
+2543		True	True		
+3061			True		
+4619			True		
+3490		True	True		
+2569		True	True		
+4710		True	True		
+3546		True	True		
+4847		True	True		
+2541		True	True		
+828			True		
+3407			True		
+3408			True		
+2956			True		
+660			True		
+617			True		
+616			True		
+567			True		
+4087			True		
+572		True	True		
+816			True		
+3443		True	True		
+3444		True	True		
+2581		True	True		
+3456		True	True		
+4462			True		
+4083			True		
+4663			True		
+3312			True		
+589			True		
+178			True		
+3209			True		
+2903			True		
+328			True		
+258			True		
+4992			True		
+4294			True		
+2537		True	True		
+2545		True	True		
+2810		True	True		
+4237			True		
+2402			True		
+3763			True		
+3955			True		
+3136			True		
+2712			True		
+2837			True		
+3721			True		
+3722			True		
+4311			True		
+4312			True		
+4964			True		
+2601			True		
+2711			True		
+3898			True		
+3515			True		
+3853			True		
+4076		True	True		
+2660		True	True		
+3868			True		
+2325			True		
+2659		True	True		
+2665			True		
+4683			True		
+5052			True		
+4797			True		
+4209		True	True		
+2514		True	True		
+4930		True	True		
+2860		True	True		
+2674		True	True		
+3320			True		
+3628		True	True		
+2573		True	True		
+2986		True	True		
+2985		True	True		True
+4850			True		
+4555			True		
+4519			True		
+4696			True		
+5126		True	True		
+3886		True	True		
+2976		True	True		
+5079			True		
+5099			True		
+3207			True		
+3802			True		
+2949			True		
+4856			True		
+3989			True		
+5102			True		
+488			True		
+970			True		
+462			True		
+49			True		
+426			True		
+566			True		
+487			True		
+227			True		
+342			True		
+2207			True		
+380			True		
+222			True		
+4474			True		
+3983			True		
+3971			True		
+4095			True		
+3586			True		
+3581			True		
+911			True		
+2611			True		
+2610			True		
+4563			True		
+3360		True	True		
+4557		True	True		
+3409			True		
+3511			True		
+4172		True	True		
+4039			True		
+3384			True		
+2476		True	True		
+3017			True		
+2496			True		
+517			True		
+2489			True		
+2492			True		
+2493			True		
+2484			True		
+3156			True		
+3854		True	True		
+731			True		
+732			True		
+201			True		
+403			True	True	
+341			True	True	
+4197			True	True	
+3442			True	True	
+3934			True	True	
+352			True		
+3758			True		
+261			True		
+351			True	True	
+332			True		
+3238			True		
+697			True		
+3871			True		
+754			True		
+4316			True		
+802			True		
+850			True		
+69			True		
+77		True	True		
+3177			True		
+793			True	True	
+3731			True		
+2991			True		
+4635			True		
+758			True		
+95			True		
+869			True		
+103			True		
+4402			True		
+4221			True		
+4616			True		
+75			True		
+3216			True		
+3112			True		
+2049			True		
+432			True		
+2534			True		
+362			True		
+3528			True		
+529			True		
+3858			True		
+4435			True		
+872			True		
+94			True		
+2242			True		
+3185			True		
+508			True		
+3926			True		
+500			True		
+892			True		
+2775			True		
+3277			True		
+2277			True		
+354			True		
+174			True		
+727			True		
+265			True		
+836			True		
+3778			True		
+3015			True		
+3838			True		
+4098			True		
+3870			True		
+2268			True		
+2029			True		
+908			True		
+188			True		
+2184			True		
+257			True		
+4111			True		
+4682			True		
+3472			True		
+3150			True		
+4126		True	True		
+706			True		
+815			True		
+3124			True		
+961		True	True		
+962			True		
+569		True	True		
+568			True		
+2520		True	True		
+2521		True	True		
+3034		True	True		
+3326			True		
+3220			True		
+2134			True		
+3987			True		
+3759			True		
+4194			True		
+3631			True		
+597			True		
+3082			True		
+2957			True		
+443			True		
+596			True		
+3083			True		
+2312			True		
+2503			True		
+2800			True		
+2502			True		
+3228			True		
+3229			True		
+681			True		
+2248			True		
+4302			True		
+2883			True		
+3413			True		
+833		True	True		
+4233			True		
+571			True		
+501		True	True		
+635		True	True		
+468			True		
+4988			True		
+2102			True		
+4600			True		
+4865			True		
+3864			True		
+583			True		
+691			True		
+928			True		
+2125			True		
+3294			True		
+2987			True		
+4870			True		
+433			True		
+641			True		
+363			True		
+2418			True		
+3154			True		
+3968			True		
+22			True		
+655			True		
+3066			True		
+2118			True		
+3538			True		
+672			True		
+658			True		
+578			True		
+304			True		
+295			True		
+2147			True		
+555			True		
+835			True		
+3547			True		
+4247			True		
+4868			True		
+3065			True		
+532			True		
+531			True		
+533			True		
+3060			True		
+289			True		
+2428			True		
+551			True		
+903			True		
+191			True		
+209			True		
+749			True		
+750			True		
+930			True		
+2241			True		
+904			True		
+3178			True		
+3179			True		
+3181			True		
+3182			True		
+3180			True		
+3809			True		
+3767			True		
+4880			True		
+4366			True		
+2293			True		
+3620			True		
+3153			True		
+2835			True		
+3736			True		
+3152			True		
+2836			True		
+3151			True		
+3491			True		
+389			True		
+2988			True		
+3939			True		
+4497			True		
+3293			True		
+3040			True		
+2295			True		
+2296			True		
+4381			True		
+4096			True	True	
+4820			True		
+479			True		
+464			True		
+182			True		
+670			True		
+2563			True		
+2263			True		
+3405			True		
+2980			True		
+4787			True		
+3397			True		
+4099			True		
+4531			True		
+3766			True		
+4693			True		
+3195			True		
+2989			True		
+87			True		
+478			True		
+612			True		
+996			True		
+837			True		
+518			True		
+2953			True		
+85			True		
+2178			True		
+3157			True		
+84			True		
+530			True		
+434			True		
+2324			True		
+2180			True		
+83			True		
+2331			True		
+854			True		
+396			True		
+3300			True		
+451			True		
+2914			True		
+4505			True		
+4387			True		
+2319			True		
+813			True		
+2886			True		
+4523			True		
+2246			True		
+3664			True		
+4824			True		
+3954			True		
+2137			True		
+4200			True		
+142			True		
+454			True		
+876			True		
+413			True		
+3385			True		
+3286			True		
+298			True		
+565			True		
+284			True		
+2420			True		
+281		True	True		
+591			True		
+3448		True	True		
+275			True		
+453			True		
+502		True	True		
+1016			True		
+4490			True		
+4887			True		
+3618			True		
+4115			True		
+4315			True		
+3475			True		
+2341			True		
+2867			True		
+3226			True		
+3904			True		
+3967			True		
+3621			True		
+4493		True	True		
+3466		True	True		
+3639		True	True		
+3981		True	True		
+2086			True		
+522			True		
+425			True		
+448			True		
+64			True		
+3817			True		
+634			True		
+3957			True		
+4305			True		
+564			True		
+4691			True		
+656			True		
+2381			True	True	
+355			True		
+63			True		
+475			True		
+2113			True		
+4307			True		
+2466		True	True		
+2853			True		
+53			True		
+205			True		
+376			True		
+204			True		
+438			True		
+316			True		
+2578			True		
+3857			True		
+4869			True		
+4246			True		
+2743			True		
+4473			True		
+4080			True		
+4665			True		
+2062			True		
+537			True		
+482			True	True	
+2297			True		
+804			True		True
+853			True		
+2109			True		
+797			True		
+791			True		
+382			True		
+519			True		
+3290			True		
+2962			True		
+3171			True		
+4690			True		
+4453			True		
+4217			True		
+4986			True		
+772			True		
+3013			True		
+25			True		
+24			True		
+3131			True		
+458			True		
+873			True		
+483			True		
+668			True		
+128			True		
+2768			True		
+4147			True		
+4807			True		
+3008			True		
+377			True		
+580			True		
+325			True		
+651			True		
+287			True		
+2417			True	True	
+285			True	True	
+286			True		
+2557			True		
+414			True		
+5083			True		
+4120			True		
+3064		True	True		
+5244			True		
+4686			True		
+4241		True	True		
+3192			True		
+620			True		
+1004			True		
+4684			True		
+4336			True		
+4151			True		
+139		True	True		
+3372		True	True		
+2214			True		
+141			True		
+485		True	True		
+4758			True		
+5107			True		
+5185			True		
+5108			True		
+5186			True		
+343			True		
+211			True		
+3486			True		
+3487			True		
+506			True		
+13			True		
+345		True	True		
+2751			True		
+3393			True		
+3392		True	True	True	
+3389			True		
+3390			True		
+3391			True		
+463			True		
+693			True		
+3158			True		
+4206			True		
+5198			True		
+3411			True		
+3420			True		
+2678			True		
+2190			True		
+4029			True		
+177			True		
+3689			True		
+494			True		
+981			True		
+406			True		
+4408			True		
+2139			True		
+5174			True		
+2451			True		
+3657			True		
+2456			True		
+4270			True		
+2855			True		
+4884			True		
+3946			True		
+2506			True		
+3570			True		
+4253			True		
+4631			True		
+4252			True		
+3935		True	True		
+2834		True	True		
+3306			True		
+3882			True		
+3969			True		
+3653			True		
+613			True		
+909		True	True		
+2539		True	True		
+2538			True		
+959			True		
+163			True		
+5008			True		
+657			True		
+4105			True		
+4882			True		
+4031			True		
+3335			True		
+4235			True		
+3923			True		
+2313			True		
+2583			True		
+2348			True		
+420			True		
+439			True		
+397			True		
+678			True		
+2362			True		
+2405			True		
+2115			True		
+4107			True		
+4222			True		
+586			True		
+4817			True		
+3959			True		
+4833			True		
+3073			True		
+3672			True		
+4615			True		
+3292			True		
+358			True		
+1007			True		
+2927			True		
+3415			True		
+431			True		
+2764			True		
+814			True		
+51			True		
+690			True		
+866			True		
+50			True		
+429			True		
+2256			True		
+3164		True	True		
+131			True		
+594			True		
+127			True		
+510			True		
+2117			True		
+457			True		
+252			True		
+756			True		
+2945			True		
+98			True		
+3873			True		
+792			True		
+4043			True		
+3429			True		
+4685			True		
+4370			True		
+476			True		
+639			True		
+293			True		
+388			True		
+230			True		
+232			True		
+473			True		
+440			True		
+2473			True		
+4516			True		
+3090			True		
+3553			True		
+3591			True		
+2992			True	True	
+3097			True		
+3535			True		
+3652			True		
+3100			True		
+3201			True		
+3099			True		
+383			True		
+581			True	True	
+605			True		
+122			True		
+2400			True		
+416			True		
+3202			True		
+2716			True		
+878			True		
+2781			True		
+4404			True		
+3979			True		
+4405			True		
+3081			True		
+4680			True		
+106			True		
+444			True		
+879			True		
+104			True		
+101			True		
+3824			True		
+4754			True		
+2469			True		
+2468			True		
+3775			True		
+3776			True		
+3052			True		
+2526			True		
+2525			True		
+2465			True		
+3459			True		
+2131			True		
+913			True		
+2464			True		
+2870			True		
+2603		True	True		
+4434			True		
+2888			True		
+3765			True		
+4425			True		
+2378			True		
+2445			True		
+2440			True		
+939			True		
+2228		True	True		
+3777			True		
+4484		True	True		
+4670			True		
+3087			True		
+424			True		
+2828			True		
+4371			True		
+4317			True		
+3627			True		
+2333			True		
+3793			True		
+3899			True		
+4417			True		
+4092			True		
+4070			True		
+2334			True		
+4385			True		
+3852			True		
+4737			True		
+2230			True		
+3002			True		
+2161			True		
+2171			True		
+2337			True		
+3425			True		
+558			True		
+663			True		
+2336			True		
+708			True		
+2480			True		
+3878			True		
+2323			True		
+3530			True		
+4498			True		
+4503			True		
+2294			True		
+3289			True		
+2999			True		
+2770			True		
+2857			True		
+2998			True		
+860			True		
+523			True		
+825			True		
+411			True		
+130			True		
+490			True		
+2658			True		
+3644			True		
+4178		True	True		
+2519		True	True		
+3881		True	True		
+2850			True		
+627		True	True		
+2081		True	True		
+2143			True		
+2522		True	True		
+2613		True	True		
+3215		True	True		
+2564		True			
+3790		True			
+4560		True			
+2839		True			
+2707		True			
+3243		True			
+3235		True			
+4162		True			
+2652		True			
+4931		True			
+3549		True			
+3432		True			True
+4656		True			
+2608		True			True
+5192		True			
+5258		True			
+3132		True			
+3536		True			
+3576		True			
+3562		True			
+4775		True			
+3564		True			
+3613		True			
+4855		True			
+2533		True			
+2532		True			
+4580		True			
+2531		True			
+4909		True			
+371				True	
+3718				True	
+3016				True	
+2063				True	
+2623				True	
+524				True	
+2641				True	
+2061				True	
+3043				True	
+2388	True				True
+4776					True
+5238					True
+5009					True
+4972	True				True
+2761	True				True
+5064					True
+4353					True
+5279	True				True
+3430	True				True
+831					True
+4394	True				True
+3993					True
+4890					True
+4584					True
+4950					True
+4264					True
+5059					True
+3884					True
+5058					True
+4015					True
+5095					True
+5021					True
+5022					True
+3533					True
+3537					True
+4104					True
+4403					True
+4488					True
+4409					True
+4861					True
+4380					True
+4981					True
+4343					True
+4445					True
+4341					True
+5002					True
+4499					True
+4698					True
+5181					True
+5343					True
+4892					True
+4450					True
+4355					True
+4330					True
+4614					True
+4418					True
+4858					True
+5001					True
+4740					True
+4953					True
+4278					True
+5312					True
+4801					True
+5368					True
+4421					True
+3119					True
+5257					True
+4632					True
+4461					True
+4944					True
+5015					True
+4755					True
+4238					True
+5339					True
+5156					True
+4612					True
+4530					True
+4793					True
+4932					True
+5026					True
+4291					True
+4556					True
+5233					True
+4789					True
+4459					True
+4156					True
+4339					True
+4131					True
+3638					True
+4318					True
+4495					True
+4836					True
+4065					True
+4066					True
+4416					True
+4419					True
+4877					True
+4879					True
+4170					True
+4342	True				True
+4852					True
+4251					True
+4088					True
+5223					True
+4628					True
+5013					True
+4444					True
+5012					True
+3395					True
+3961					True
+4922					True
+4995					True
+3681					True
+4149					True
+4388					True
+4949					True
+4375					True
+4765					True
+4777					True
+3885					True
+4601					True
+4983					True
+4897					True
+4478					True
+4477					True
+4854					True
+4482					True
+4622					True
+4428					True
+4112					True
+5358					True
+5359					True
+5360					True
+4773					True
+4977					True
+4873					True
+4332					True
+4329					True
+5027					True
+4522					True
+4509					True
+4677					True
+4589					True
+4955					True
+4948					True
+3488					True
+4470					True
+4826					True
+4678					True
+3879					True
+5078					True
+5096					True
+4218					True
+4262					True
+4624					True
+3648					True
+3920					True
+4973					True
+5183					True
+2955					True
+4161					True
+4160					True
+4994					True
+4748					True
+3835					True
+3836					True
+3820					True
+4766					True
+4554					True
+4240	True				True
+4653					True
+2779					True
+4479					True
+4878					True
+4338					True
+5120					True
+5077					True
+4566					True
+4567					True
+4568					True
+5346					True
+4078					True
+2357					True
+2664					True
+2805					True
+4997					True
+4265					True
+4881					True
+4427					True
+4652					True
+4657					True
+4963					True
+4496					True
+4489					True
+4781					True
+4415					True
+4945					True
+4633					True
+3906					True
+4510					True
+4320					True
+4321					True
+5299					True
+4574					True
+4508					True
+4309					True
+3575					True
+3779					True
+3529					True
+4327					True
+4757					True
+4038					True
+3237					True
+3827					True
+4597					True
+3497					True
+3706					True
+4526	True				
+4460	True				
+4325	True				
+4349	True				
+4346	True				
+4350	True				
+4356	True				
+4345	True				
+4348	True				
+2387	True				
+4239	True				
+4831	True				
+4333	True				
+4322	True				
+4324	True				
+2073	True				
+4714	True				
+4741	True				
+4904	True				
+4746	True				
+5029	True				
+4799	True				
+4837	True				
+4832	True				
+4386	True				
+912	True				
+4340	True				
+4431	True				
+4255	True				
+4256	True				
+4613	True				
+4679	True				
+4756	True				
+5122	True				
+5010	True				
+5055	True				
+4334	True				
+4604	True				
+4579	True				
+4569	True				
+4840	True				
+4974	True				
+4605	True				
+4581	True				
+4223	True				
+5188	True				
+4834	True				
+4263	True				
+3977	True				
+3978	True				
+4864	True				
+4609	True				
+4335	True				
+4337	True				
+4441	True				
+4654	True				
+4146	True				
