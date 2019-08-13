@@ -27,19 +27,19 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 412			True		
 148			True		
 2740			True		
-3825			True		
-4196			True		
-179			True		
-401			True		
+2745		True	True		
 385			True		
 386			True		
 3891			True		
 582			True		
 884			True		
 2846			True		
-4212			True		
 2097			True		
-2745		True	True		
+3825			True		
+4196			True		
+179			True		
+401			True		
+4212			True		
 4764			True		
 588			True		
 197			True		
@@ -211,6 +211,14 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 185			True		
 186			True		
 2472			True		
+3800			True		
+623		True	True		
+2852			True		
+901			True		
+3014			True		
+2685			True		
+305			True		
+306			True		
 2791			True		
 2787			True		
 4987			True		
@@ -225,14 +233,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3794			True		
 3427			True		
 3673			True		
-901			True		
-3014			True		
-2685			True		
-305			True		
-306			True		
-3800			True		
-623		True	True		
-2852			True		
 3695			True		
 466			True		
 2310			True		
@@ -250,6 +250,20 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2915		True	True		
 4586		True	True		
 852			True		
+4046			True		
+4520			True		
+3913			True		
+4009			True		
+4154			True		
+4553			True		
+2482			True		True
+3191			True		
+3916			True		
+3231			True		
+2943			True		
+4061			True		
+3428			True		
+3712			True		
 3284			True		
 3361			True		
 4276			True		
@@ -260,12 +274,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3661			True		
 4137			True		
 3714			True		
-4261			True		
-2683			True		
-2446			True		
-4046			True		
-4520			True		
-3913			True		
 4689			True		
 4506			True		
 3922			True		
@@ -278,17 +286,9 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 76			True		
 2478			True		
 3058			True		
-4009			True		
-4154			True		
-4553			True		
-2482			True		True
-3191			True		
-3916			True		
-3231			True		
-2943			True		
-4061			True		
-3428			True		
-3712			True		
+4261			True		
+2683			True		
+2446			True		
 4511			True		
 4164			True		
 4298			True		
@@ -357,6 +357,9 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3514			True		
 2604			True		
 2505			True		
+3504			True		
+3505			True		
+3508			True		
 4132			True		
 4292			True		
 5218			True		
@@ -374,9 +377,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 4319			True		
 4182			True		
 5143			True		
-3504			True		
-3505			True		
-3508			True		
 145			True		
 2922			True		
 614			True		
@@ -419,15 +419,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 539			True		
 224		True	True		
 669			True		
-4486		True	True		
-2901			True		
-951			True		
-3279			True		
-4888		True	True		
-2512		True	True		
-2510		True	True		
-561		True	True		
-562			True		
 3301			True		
 3970			True		
 4767			True		
@@ -444,14 +435,15 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3414			True		
 4423			True		
 3785			True		
-4468			True		
-4023			True		
-5384			True		
-4759			True		
-3925			True		
-3829			True		
-3828		True	True		
-3086		True	True		
+4486		True	True		
+2901			True		
+951			True		
+3279			True		
+4888		True	True		
+2512		True	True		
+2510		True	True		
+561		True	True		
+562			True		
 5103			True		
 2556			True		
 3461			True		
@@ -463,9 +455,19 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 1006			True		
 790			True		
 3493			True		
-574			True		
-602		True	True		
-575			True		
+4468			True		
+4023			True		
+5384			True		
+4759			True		
+3925			True		
+3829			True		
+3828		True	True		
+3086		True	True		
+3963			True		
+3309			True		
+2952			True		
+3324			True		
+4610			True		
 606			True		
 2769			True		
 4901			True		
@@ -475,14 +477,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 126			True		
 2477			True		
 2530			True		
-3963			True		
-3309			True		
-2952			True		
-3324			True		
-4610			True		
-5069			True		
-4943			True		
-4938			True		
 3637			True		
 3984			True		
 3502			True		
@@ -505,6 +499,12 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2498			True		
 2491			True		
 2494			True		
+574			True		
+602		True	True		
+575			True		
+5069			True		
+4943			True		
+4938			True		
 545			True		
 4259			True		
 3126			True		
@@ -589,18 +589,18 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2579		True	True		
 2577		True	True		
 661			True		
-3633		True	True		
-2895		True	True		
-3754		True	True		
-2455		True	True		
-2453		True	True		
-2475		True	True		
 2767			True		
 3267			True		
 465			True		
 89			True		
 90			True		
 91			True		
+3633		True	True		
+2895		True	True		
+3754		True	True		
+2455		True	True		
+2453		True	True		
+2475		True	True		
 3992			True		
 3877			True		
 3346			True		
@@ -690,6 +690,28 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 823			True		
 4205			True		
 844			True		
+67			True		
+68			True		
+392			True		
+481			True		
+2487			True		
+2485			True		
+2536			True		
+2486			True		
+3038			True		
+3607			True		
+4518			True		
+4483			True		
+3896			True		
+2133			True		
+2108		True	True		
+477		True	True		
+290		True	True		
+2572		True	True		
+3636		True	True		
+3149		True	True		
+2673		True	True		
+3911		True	True		
 2517		True	True		
 2515		True	True		
 3455		True	True		
@@ -701,34 +723,12 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2212		True	True		
 673		True	True		
 2211		True	True		
-4226			True		
-4130			True		
-4825			True		
-4518			True		
-4483			True		
-3896			True		
-2133			True		
-2108		True	True		
-477		True	True		
-290		True	True		
-3607			True		
-2572		True	True		
-3636		True	True		
-3149		True	True		
-2673		True	True		
-3911		True	True		
 2754		True	True		
 2755		True	True		
 2973		True	True		
-67			True		
-68			True		
-392			True		
-481			True		
-2487			True		
-2485			True		
-2536			True		
-2486			True		
-3038			True		
+4226			True		
+4130			True		
+4825			True		
 379			True		
 38			True		
 3844			True		
@@ -783,6 +783,16 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 521		True	True		
 777			True		
 503			True		
+4462			True		
+4083			True		
+4663			True		
+3312			True		
+589			True		
+178			True		
+3209			True		
+2903			True		
+328			True		
+258			True		
 3363			True		
 3545			True		
 3080			True		
@@ -815,16 +825,11 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3444		True	True		
 2581		True	True		
 3456		True	True		
-4462			True		
-4083			True		
-4663			True		
-3312			True		
-589			True		
-178			True		
-3209			True		
-2903			True		
-328			True		
-258			True		
+4209		True	True		
+2514		True	True		
+4930		True	True		
+2860		True	True		
+2674		True	True		
 4992			True		
 4294			True		
 2537		True	True		
@@ -853,27 +858,22 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2325			True		
 2659		True	True		
 2665			True		
-4683			True		
-5052			True		
-4797			True		
-4209		True	True		
-2514		True	True		
-4930		True	True		
-2860		True	True		
-2674		True	True		
-3320			True		
-3628		True	True		
-2573		True	True		
 2986		True	True		
 2985		True	True		True
 4850			True		
-4555			True		
-4519			True		
-4696			True		
+3320			True		
+3628		True	True		
+2573		True	True		
 5126		True	True		
 3886		True	True		
 2976		True	True		
 5079			True		
+4683			True		
+5052			True		
+4797			True		
+4555			True		
+4519			True		
+4696			True		
 5099			True		
 3207			True		
 3802			True		
@@ -886,6 +886,19 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 462			True		
 49			True		
 426			True		
+4039			True		
+3384			True		
+2476		True	True		
+3017			True		
+2496			True		
+517			True		
+2489			True		
+2492			True		
+2493			True		
+2484			True		
+3156			True		
+3854		True	True		
+911			True		
 566			True		
 487			True		
 227			True		
@@ -899,29 +912,16 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 4095			True		
 3586			True		
 3581			True		
-911			True		
-2611			True		
-2610			True		
+731			True		
+732			True		
 4563			True		
 3360		True	True		
 4557		True	True		
 3409			True		
 3511			True		
 4172		True	True		
-4039			True		
-3384			True		
-2476		True	True		
-3017			True		
-2496			True		
-517			True		
-2489			True		
-2492			True		
-2493			True		
-2484			True		
-3156			True		
-3854		True	True		
-731			True		
-732			True		
+2611			True		
+2610			True		
 201			True		
 403			True	True	
 341			True	True	
@@ -943,17 +943,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 69			True		
 77		True	True		
 3177			True		
-793			True	True	
-3731			True		
-2991			True		
-4635			True		
-758			True		
-95			True		
-869			True		
-103			True		
-4402			True		
-4221			True		
-4616			True		
 75			True		
 3216			True		
 3112			True		
@@ -973,17 +962,17 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3926			True		
 500			True		
 892			True		
-2775			True		
-3277			True		
-2277			True		
-354			True		
-174			True		
-727			True		
-265			True		
-836			True		
-3778			True		
-3015			True		
-3838			True		
+793			True	True	
+3731			True		
+2991			True		
+4635			True		
+758			True		
+95			True		
+869			True		
+103			True		
+4402			True		
+4221			True		
+4616			True		
 4098			True		
 3870			True		
 2268			True		
@@ -992,6 +981,17 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 188			True		
 2184			True		
 257			True		
+265			True		
+836			True		
+3778			True		
+3015			True		
+3838			True		
+2775			True		
+3277			True		
+2277			True		
+354			True		
+174			True		
+727			True		
 4111			True		
 4682			True		
 3472			True		
@@ -1007,6 +1007,15 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2520		True	True		
 2521		True	True		
 3034		True	True		
+4302			True		
+2883			True		
+3413			True		
+833		True	True		
+4233			True		
+571			True		
+501		True	True		
+635		True	True		
+468			True		
 3326			True		
 3220			True		
 2134			True		
@@ -1028,24 +1037,15 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 3229			True		
 681			True		
 2248			True		
-4302			True		
-2883			True		
-3413			True		
-833		True	True		
-4233			True		
-571			True		
-501		True	True		
-635		True	True		
-468			True		
-4988			True		
-2102			True		
-4600			True		
-4865			True		
 3864			True		
 583			True		
 691			True		
 928			True		
 2125			True		
+2102			True		
+4600			True		
+4865			True		
+4988			True		
 3294			True		
 2987			True		
 4870			True		
@@ -1118,9 +1118,9 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 4820			True		
 479			True		
 464			True		
+2563			True		
 182			True		
 670			True		
-2563			True		
 2263			True		
 3405			True		
 2980			True		
@@ -1193,12 +1193,12 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2867			True		
 3226			True		
 3904			True		
-3967			True		
-3621			True		
 4493		True	True		
 3466		True	True		
 3639		True	True		
 3981		True	True		
+3967			True		
+3621			True		
 2086			True		
 522			True		
 425			True		
@@ -1242,17 +1242,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2109			True		
 797			True		
 791			True		
-382			True		
-519			True		
-3290			True		
-2962			True		
-3171			True		
-4690			True		
-4453			True		
-4217			True		
-4986			True		
-772			True		
-3013			True		
 25			True		
 24			True		
 3131			True		
@@ -1269,12 +1258,17 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 580			True		
 325			True		
 651			True		
-287			True		
-2417			True	True	
-285			True	True	
-286			True		
-2557			True		
-414			True		
+382			True		
+519			True		
+3290			True		
+2962			True		
+3171			True		
+4690			True		
+4453			True		
+4217			True		
+4986			True		
+772			True		
+3013			True		
 5083			True		
 4120			True		
 3064		True	True		
@@ -1282,16 +1276,25 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 4686			True		
 4241		True	True		
 3192			True		
+287			True		
+2417			True	True	
+285			True	True	
+286			True		
+2557			True		
+414			True		
 620			True		
 1004			True		
-4684			True		
-4336			True		
-4151			True		
+2751			True		
+3486			True		
+3487			True		
 139		True	True		
 3372		True	True		
 2214			True		
 141			True		
 485		True	True		
+4684			True		
+4336			True		
+4151			True		
 4758			True		
 5107			True		
 5185			True		
@@ -1299,12 +1302,9 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 5186			True		
 343			True		
 211			True		
-3486			True		
-3487			True		
 506			True		
 13			True		
 345		True	True		
-2751			True		
 3393			True		
 3392		True	True	True	
 3389			True		
@@ -1342,33 +1342,15 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 4252			True		
 3935		True	True		
 2834		True	True		
-3306			True		
-3882			True		
-3969			True		
-3653			True		
 613			True		
 909		True	True		
 2539		True	True		
 2538			True		
+3306			True		
+3882			True		
+3969			True		
+3653			True		
 959			True		
-163			True		
-5008			True		
-657			True		
-4105			True		
-4882			True		
-4031			True		
-3335			True		
-4235			True		
-3923			True		
-2313			True		
-2583			True		
-2348			True		
-420			True		
-439			True		
-397			True		
-678			True		
-2362			True		
-2405			True		
 2115			True		
 4107			True		
 4222			True		
@@ -1402,6 +1384,24 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 457			True		
 252			True		
 756			True		
+163			True		
+5008			True		
+657			True		
+4105			True		
+4882			True		
+4031			True		
+3335			True		
+4235			True		
+3923			True		
+2313			True		
+2583			True		
+2348			True		
+420			True		
+439			True		
+397			True		
+678			True		
+2362			True		
+2405			True		
 2945			True		
 98			True		
 3873			True		
@@ -1476,11 +1476,28 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 939			True		
 2228		True	True		
 3777			True		
-4484		True	True		
 4670			True		
+4484		True	True		
 3087			True		
 424			True		
 2828			True		
+3878			True		
+2323			True		
+3530			True		
+4498			True		
+4503			True		
+2294			True		
+3289			True		
+2999			True		
+2770			True		
+2857			True		
+2998			True		
+860			True		
+523			True		
+825			True		
+411			True		
+130			True		
+490			True		
 4371			True		
 4317			True		
 3627			True		
@@ -1505,23 +1522,6 @@ model_id	插电式混动	柴油	汽油	油电混合	纯电动
 2336			True		
 708			True		
 2480			True		
-3878			True		
-2323			True		
-3530			True		
-4498			True		
-4503			True		
-2294			True		
-3289			True		
-2999			True		
-2770			True		
-2857			True		
-2998			True		
-860			True		
-523			True		
-825			True		
-411			True		
-130			True		
-490			True		
 2658			True		
 3644			True		
 4178		True	True		

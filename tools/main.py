@@ -2,7 +2,7 @@
 # @Author: solidjoker
 # @Date:   2019-08-13 16:48:06
 # @Last Modified by:   solidjoker
-# @Last Modified time: 2019-08-13 17:25:25
+# @Last Modified time: 2019-08-13 18:03:20
 
 
 from . import fetch_data
@@ -44,7 +44,7 @@ def main():
               4: '纯电动',
               5: '插电式混动'}
     result_dic = get_result_dic(dic_ne)
-    df = process_data.process_data(result_dic, open_file=True)
+    df = process_data.process_data(result_dic, dic_ne, open_file=False)
     return df
 
 

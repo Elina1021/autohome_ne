@@ -125,3 +125,4 @@ dmypy.json
 
 # custom
 draft*
+output.txt
